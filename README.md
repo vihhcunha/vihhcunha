@@ -1,8 +1,8 @@
 #### ✌ Hi ✌
 
-**My name is Vinicius Cunha**, and I'm **in love** about technology 💖. I'm a **software developer** for 2 years from now, and I like build Mobile Apps, API's and Web Apps to solve all kind of problems.
+**My name is Vinicius Cunha**, and I'm **in love** about technology 💖. I'm a **software developer** for 2 years, and I enjoy build Mobile Apps, API's and Web Apps to solve all kind of problems.
 
-Here's my most loved frameworks and stacks 😍:
+Here's my most loved frameworks and technologies 😍:
 
 - .NET / .NET Core
 - C#
