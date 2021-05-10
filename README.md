@@ -9,7 +9,7 @@ Here's my most loved frameworks and technologies 😍:
 - ASP.NET Core MVC and WebAPI
 - ASP.NET MVC and WebAPI
 - Entity Framework / Entity Framework Core
-- HTML / CSS / Javascrit
+- HTML / CSS / Javascript
 - Angular 2+ / Typescript
 - SQL and SQL Server
 - Xamarin.Forms
