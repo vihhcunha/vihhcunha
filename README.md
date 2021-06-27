@@ -16,6 +16,8 @@ Here's my most loved frameworks and technologies 😍:
 
 Woow, and I almost forgot! 🤦‍♂️ I like so much, learning about **software architecture**, and implement **Design Patterns / architectural patterns** in my projects. 💕😍 
 
-How you can reach me, for tips, help or somenthing else relationed with programming? 🤝
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vihhcunha?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+
+How you can reach me, for tips, help or something else relationed with programming? 🤝
 - Phone: 55 (11) 99835-9211 📞
 - Email: vinicius2010.cunha@hotmail.com 📩
