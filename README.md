@@ -64,13 +64,13 @@ A To-Do API built with Node.js and TypeScript applying Clean Architecture princi
 Movie rating app built to demonstrate practical container orchestration — Docker, Kubernetes (AKS), and CI/CD with GitHub Actions, deployed to Azure Kubernetes Service.
 `Kubernetes` `Docker` `AKS` `GitHub Actions` `Azure`
 
-### [Atelier Jane Cunha](https://github.com/vihhcunha/AtelierJaneCunha)
-Real-world web system for a small business built with ASP.NET Core MVC 5.0, deployed to Azure App Service. Covers product management, orders, and customer workflows end-to-end.
-`ASP.NET Core MVC` `Azure App Service` `HTML` `CSS`
+### Territórios LS *(production — private)*
+Full-stack system built pro-bono for a social work organization, running in production. Backend API in .NET / C# and a separate Angular frontend, both containerized and deployed to Azure. Handles operational workflows for the organization with no infrastructure cost to them.
+`C#` `.NET` `Angular` `TypeScript` `Docker` `Azure` `REST APIs`
 
-### [Coding Challenges](https://github.com/vihhcunha/CodingChallenges)
-Collection of algorithm and programming challenges solved in C# — a running reference for problem-solving patterns and data structures.
-`C#` `Algorithms` `Data Structures`
+### GForce *(production — private)*
+Client project — a full-stack web system (ASP.NET Core API backend + TypeScript web app) running in production on Azure with container-based deployments. Built and maintained end-to-end from API design through frontend delivery.
+`C#` `.NET` `TypeScript` `Docker` `Azure` `REST APIs`
 
 ---
 
