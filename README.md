@@ -1,27 +1,88 @@
-#### ✌ Hi ✌
+# Hi, I'm Vinicius Cunha 👋
 
-**My name is Vinicius Cunha**, and I'm **in love** about technology 💖. I'm a **software developer** for 5 years, and I enjoy build Mobile Apps, API's and Web Apps to solve all kind of problems.
+**Senior Backend Engineer** at [Belong](https://www.belonghome.com/) · São Paulo, Brazil · GMT-3
 
-Here's my most loved frameworks and technologies 😍:
+I build scalable distributed systems and backend infrastructure in **.NET / C#**, design **event-driven microservices**, and integrate **AI/LLM workflows** into production environments. Currently working remotely with a US engineering team on a property management platform serving thousands of users.
 
-- .NET / .NET Core
-- C#
-- ASP.NET Core MVC and WebAPI
-- ASP.NET MVC and WebAPI
-- Entity Framework / Entity Framework Core
-- HTML / CSS / Javascript
-- Angular 2+ / Typescript
-- SQL and SQL Server
-- Xamarin.Forms
+Strong believer in clean architecture, clear code, and systems that are simple to operate.
 
-Woow, and I almost forgot! 🤦‍♂️ I like so much, learning about **software architecture**, and implement **Design Patterns / architectural patterns** in my projects. 💕😍 
+---
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vihhcunha?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card) 
+## 🛠 Tech Stack
 
-### Certifications
-![AZ-900 Badge](https://images.credly.com/size/110x110/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png)
+**Backend**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-How you can reach me, for tips, help or something else relationed with programming? 🤝
-- Phone: 55 (11) 99835-9211 📞
-- Email: vinicius2010.cunha@hotmail.com 📩
-- Linkedin: [Here](https://www.linkedin.com/in/vinicius-nogueira-da-cunha/)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Data**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Messaging & AI**
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+## 🔍 What I Work On
+
+- **Distributed backend systems** — microservices, event-driven architecture, CQRS, DDD
+- **AI/LLM integrations** — production pipelines with OpenAI, prompt engineering, LLM observability
+- **System modernization** — migrating legacy monoliths to scalable cloud-native architectures
+- **Fullstack features** — end-to-end ownership from API design to React and Angular frontends
+- **Production reliability** — observability with Datadog & Sentry, dead-letter queues, retry strategies
+
+---
+
+## 📌 Featured Projects
+
+### [Clean Architecture Sample](https://github.com/vihhcunha/Clean-Architecture-Sample)
+A practical implementation of Clean Architecture in .NET / C# based on Robert C. Martin's book. Demonstrates layered separation of concerns, dependency inversion, and testable application design.
+`C#` `.NET Core` `Clean Architecture` `DDD`
+
+### [To-Do — Node.js + Clean Architecture](https://github.com/vihhcunha/to-do-nodejs-clean-architecture)
+A To-Do API built with Node.js and TypeScript applying Clean Architecture principles — InversifyJS for IoC, ExpressJS for routing, fully structured for testability and maintainability.
+`TypeScript` `Node.js` `ExpressJS` `Clean Architecture`
+
+### [Rotten Potatoes — Kubernetes Bootcamp](https://github.com/vihhcunha/rotten-potatoes)
+Movie rating app built to demonstrate practical container orchestration — Docker, Kubernetes (AKS), and CI/CD with GitHub Actions, deployed to Azure Kubernetes Service.
+`Kubernetes` `Docker` `AKS` `GitHub Actions` `Azure`
+
+### [Atelier Jane Cunha](https://github.com/vihhcunha/AtelierJaneCunha)
+Real-world web system for a small business built with ASP.NET Core MVC 5.0, deployed to Azure App Service. Covers product management, orders, and customer workflows end-to-end.
+`ASP.NET Core MVC` `Azure App Service` `HTML` `CSS`
+
+### [Coding Challenges](https://github.com/vihhcunha/CodingChallenges)
+Collection of algorithm and programming challenges solved in C# — a running reference for problem-solving patterns and data structures.
+`C#` `Algorithms` `Data Structures`
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vihhcunha&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/vihhcunha)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vihhcunha&layout=compact&theme=github_dark&hide_border=true)](https://github.com/vihhcunha)
+
+---
+
+## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-nogueira-da-cunha/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/vihhcunha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vinicius2010.cunha@hotmail.com)
