@@ -76,8 +76,8 @@ Client project — a full-stack web system (ASP.NET Core API backend + TypeScrip
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vihhcunha&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/vihhcunha)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vihhcunha&layout=compact&theme=github_dark&hide_border=true)](https://github.com/vihhcunha)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/vihhcunha?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vihhcunha&theme=github-dark-blue&hide_border=true)](https://github.com/vihhcunha)
 
 ---
 
